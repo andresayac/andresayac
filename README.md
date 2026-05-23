@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue%20%7C%20Next%20%7C%20Nuxt-00F5D4?style=flat-square" alt="Frontend" />
     </td>
     <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20Node%20%7C%20FastAPI-7C3AED?style=flat-square" alt="Backend" />
+      <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20Node%20%7C%20Go-7C3AED?style=flat-square" alt="Backend" />
     </td>
     <td align="center" width="180">
       <img src="https://img.shields.io/badge/AI-Agents%20%7C%20Data%20%7C%20Vision-F59E0B?style=flat-square" alt="AI" />
@@ -34,7 +34,7 @@
 <br />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,python,nodejs,laravel,express,fastapi,react,vue,nextjs,nuxtjs,tailwind,vite,mysql,postgres,mongodb,redis,docker,kubernetes,linux,nginx,githubactions,vercel,tensorflow,pytorch,opencv,selenium&perline=14" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,python,go,nodejs,laravel,express,fastapi,graphql,react,vue,nextjs,nuxtjs,tailwind,vite,mysql,postgres,mongodb,redis,docker,kubernetes,linux,nginx,githubactions,vercel,tensorflow,pytorch,opencv,selenium&perline=15" alt="Skills" />
 </p>
 
 <br />
