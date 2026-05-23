@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=700&color=00F5D4&center=true&vCenter=true&width=900&lines=I+build+products+that+automate;WhatsApp+bots+%2B+AI+%2B+SaaS;Clean+backend%2C+fast+UI%2C+stable+cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=700&color=00F5D4&center=true&vCenter=true&width=900&lines=I+build+software+that+solves+problems;Web+apps+%2B+AI+%2B+automation+%2B+cloud;Clean+backend%2C+fast+UI%2C+stable+systems" alt="Typing SVG" />
 </p>
 
 <br />
@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20Node%20%7C%20Python-7C3AED?style=flat-square" alt="Backend" />
     </td>
     <td align="center" width="180">
-      <img src="https://img.shields.io/badge/AI-Agents%20%7C%20Voice%20%7C%20Vision-F59E0B?style=flat-square" alt="AI" />
+      <img src="https://img.shields.io/badge/AI-Agents%20%7C%20Data%20%7C%20Vision-F59E0B?style=flat-square" alt="AI" />
     </td>
     <td align="center" width="180">
       <img src="https://img.shields.io/badge/Cloud-Linux%20%7C%20Docker%20%7C%20Nginx-22C55E?style=flat-square" alt="Cloud" />
@@ -48,14 +48,14 @@
     </td>
     <td align="center">
       <a href="https://github.com/andresayac/bot-wa-baileys">
-        <img src="https://img.shields.io/badge/bot--wa--baileys-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="bot-wa-baileys" />
+        <img src="https://img.shields.io/badge/automation-bots%20%7C%20workflows-25D366?style=for-the-badge&logo=n8n&logoColor=white" alt="Automation bots and workflows" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://whatsper.co">
-        <img src="https://img.shields.io/badge/Whatsper-SaaS-00F5D4?style=for-the-badge&logo=whatsapp&logoColor=0B1020" alt="Whatsper" />
+        <img src="https://img.shields.io/badge/Whatsper-Product-00F5D4?style=for-the-badge&logo=rocket&logoColor=0B1020" alt="Whatsper" />
       </a>
     </td>
     <td align="center">
