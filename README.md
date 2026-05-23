@@ -1,38 +1,90 @@
-<h1 align="center">Hi 👋, I'm Andres</h1>
-<h3 align="center">A passionate fullstack Developer from Colombia</h3>
-
-![](https://komarev.com/ghpvc/?username=andresayac&style=for-the-badge&color=00a884)
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/andresayac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="edgardmessias" height="30" width="40" /></a>
-<a href="https://twitter.com/andresayaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edgardmessias" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andres-aya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edgardmessias" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,45:111827,100:7C3AED&height=210&section=header&text=Andres%20Aya&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=Fullstack%20%7C%20AI%20%7C%20Automation%20%7C%20Cloud&descAlignY=58&descSize=18&animation=fadeIn" alt="Andres Aya" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://afaya.com.co"><img src="https://img.shields.io/badge/AFAYA-LAB-00F5D4?style=for-the-badge&logo=vercel&logoColor=0B1020" alt="AFaya Lab" /></a>
+  <a href="https://github.com/andresayac"><img src="https://img.shields.io/badge/GitHub-andresayac-111827?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/andres-aya"><img src="https://img.shields.io/badge/LinkedIn-Andres%20Aya-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andresayac&show_icons=true&locale=en&layout=compact" alt="andresayac" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=700&color=00F5D4&center=true&vCenter=true&width=900&lines=I+build+products+that+automate;WhatsApp+bots+%2B+AI+%2B+SaaS;Clean+backend%2C+fast+UI%2C+stable+cloud" alt="Typing SVG" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andresayac&show_icons=true&locale=en" alt="andresayac" /></p>
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andresayac&" alt="andresayac" /></p>
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue%20%7C%20Next-00F5D4?style=flat-square" alt="Frontend" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20Node%20%7C%20Python-7C3AED?style=flat-square" alt="Backend" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/AI-Agents%20%7C%20Voice%20%7C%20Vision-F59E0B?style=flat-square" alt="AI" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/Cloud-Linux%20%7C%20Docker%20%7C%20Nginx-22C55E?style=flat-square" alt="Cloud" />
+    </td>
+  </tr>
+</table>
 
-<!--
-**andresayac/andresayac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,php,laravel,python,react,vue,nextjs,tailwind,mysql,postgres,mongodb,redis,docker,kubernetes,linux,nginx,git,github,tensorflow,pytorch&perline=11" alt="Skills" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/andresayac/edge-tts">
+        <img src="https://img.shields.io/badge/edge--tts-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="edge-tts" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/andresayac/bot-wa-baileys">
+        <img src="https://img.shields.io/badge/bot--wa--baileys-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="bot-wa-baileys" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://whatsper.co">
+        <img src="https://img.shields.io/badge/Whatsper-SaaS-00F5D4?style=for-the-badge&logo=whatsapp&logoColor=0B1020" alt="Whatsper" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://notiauto.co">
+        <img src="https://img.shields.io/badge/NotiAuto-Automation-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="NotiAuto" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andresayac&theme=tokyonight" alt="Repos per language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andresayac&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andresayac&style=for-the-badge&color=00F5D4" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/andresayac?style=for-the-badge&label=Followers&color=7C3AED" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/andresayac/edge-tts?style=for-the-badge&label=edge--tts&color=F59E0B" alt="Edge TTS stars" />
+</p>
+
+<p align="center">
+  <a href="https://afaya.com.co"><img src="https://img.shields.io/badge/Portfolio-afaya.com.co-00F5D4?style=for-the-badge&logo=google-chrome&logoColor=0B1020" alt="Portfolio" /></a>
+  <a href="https://twitter.com/andresayaa"><img src="https://img.shields.io/badge/X-@andresayaa-000000?style=for-the-badge&logo=x" alt="X" /></a>
+  <a href="https://dev.to/andresayac"><img src="https://img.shields.io/badge/dev.to-andresayac-0A0A0A?style=for-the-badge&logo=devdotto" alt="Dev.to" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:111827,100:00F5D4&height=110&section=footer" alt="Footer" />
+</p>
